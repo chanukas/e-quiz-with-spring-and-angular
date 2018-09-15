@@ -1,0 +1,24 @@
+<div class="card card-block login-card">
+  <h3 class="form-label">Welcome Back</h3>
+  <span class="form-label">sign in to continue to Lines</span>
+  <div class="form-group">
+    <div class="input-group">
+      <span class="input-group-addon addon-left" id="username">
+        <i class="fa fa-user fa-fw"></i>
+      </span>
+      <input class="form-control with-primary-addon" [(ngModel)]="user.username" [ngModelOptions]="{standalone: true}" placeholder="User Account" type="text">
+    </div>
+    <div class="input-group">
+      <span class="input-group-addon addon-left" id="password">
+        <i class="fa fa-lock fa-fw"></i>
+      </span>
+      <input class="form-control with-primary-addon" [(ngModel)]="user.password"  [ngModelOptions]="{standalone: true}" placeholder="Password" type="password">
+    </div>
+    <button class="btn btn-lg btn-primary" (click)="login()">Login</button>
+    <a href="" class="btn btn-link">Register Now. →</a>
+  </div>
+  <div *ngIf="failed" class="alert alert-danger alert-dismissible" style="margin-top:10px;">
+    <h6><i class="icon fa fa-ban"></i> Invalid Login Credentials !</h6>
+    Please enter valid login credentials to login
+  </div>
+</div>

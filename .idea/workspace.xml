@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="backend:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8973e494-f24d-425e-89f0-946944e5d6b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/backend_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/backend_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_agroal_agroal_api_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_agroal_agroal_pool_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/controller/AnswerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/AnswerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/CustomDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/GameDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/PlayerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/QuestionDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/RegisterDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/ResultDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Register_PK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/main/WebAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/main/WebAppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/main/WebRootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/repository/AnswerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/repository/PlayerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/AnswerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/ChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/GameService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/PlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/QuestionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/RegisterService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/ResultService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/AnswerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/ChatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/GameServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/PlayerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/QuestionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/RegisterServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/ResultServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/controller/AnswerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/AnswerDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/CustomDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/GameDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/PlayerDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/QuestionDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/RegisterDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/ResultDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/dto/UserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Register.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Register_PK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/entity/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/main/WebAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/main/WebAppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/main/WebRootConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/repository/AnswerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/repository/PlayerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/AnswerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/ChatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/GameService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/PlayerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/QuestionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/RegisterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/ResultService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/AnswerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/ChatServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/GameServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/PlayerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/QuestionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/RegisterServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/classes/lk/ijse/quiz/service/impl/ResultServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/agroal-api-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/agroal-pool-0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/aspectjrt-1.8.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/byte-buddy-1.8.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/hibernate-commons-annotations-5.0.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/hibernate-core-5.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jackson-core-2.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jackson-databind-2.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/javassist-3.22.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-data-commons-2.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-data-jpa-2.0.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-orm-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/backend-1.0.0/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/controller/AnswerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/AnswerDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/CustomDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/GameDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/PlayerDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/QuestionDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/RegisterDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/ResultDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/dto/UserDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Answer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Question.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Register.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Register_PK.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/entity/Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/main/WebAppConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/main/WebAppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/main/WebRootConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/repository/AnswerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/repository/PlayerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/AnswerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/ChatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/GameService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/PlayerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/QuestionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/RegisterService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/ResultService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/AnswerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/ChatServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/GameServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/PlayerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/QuestionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/RegisterServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/target/classes/lk/ijse/quiz/service/impl/ResultServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.angular-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/e2e/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/e2e/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/dtos/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/guards/auth.guard.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/charts.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/charts.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/charts.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/components/echarts/charts.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/components/echarts/echarts.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/components/echarts/echarts.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/charts/components/echarts/echarts.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/editor/editor.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/editor/editor.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/editor/editor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/editor/editor.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/editor/editor.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/file-upload/file-upload.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/file-upload/file-upload.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/file-upload/file-upload.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/children-select/children-select.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/children-select/children-select.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/multiple-select/multiple-select.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/multiple-select/multiple-select.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/ng2-select.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/ng2-select.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/ng2-select.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/single-select/single-select.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/components/ng2-select/single-select/single-select.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/form.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/form.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/form/form.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/icon/icon.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/icon/icon.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/icon/icon.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/icon/icon.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/icon/icon.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/index/index.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/index/index.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/index/index.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/index/index.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/index/index.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/components/levels-1-1/levels-1-1.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/components/levels-1-1/levels-1-1.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/components/levels-1-1/levels-1-1.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/levels-1.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/levels-1.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-1/levels-1.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-2/levels-2.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-2/levels-2.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/components/levels-2/levels-2.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/menu-levels.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/menu-levels.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu-levels/menu-levels.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/menu.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/pages.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/pages.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/pages.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/pages.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/pages.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/profile/profile.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/profile/profile.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/profile/profile.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/basic-tables/basic-tables.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/basic-tables/basic-tables.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/basic-tables/basic-tables.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/data-table.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/data-table.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/data-table.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/tablesData.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/table.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/table.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/table/table.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/file-tree/file-tree.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/file-tree/file-tree.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/file-tree/file-tree.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/file-tree/trees.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/grid/grid.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/grid/grid.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/grid/grid.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/loading/loading.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/loading/loading.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/loading/loading.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/modals/modals.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/modals/modals.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/modals/modals.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/progress-bar/progress-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/progress-bar/progress-bar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/progress-bar/progress-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/tabs/tabs.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/tabs/tabs.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/components/tabs/tabs.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/ui.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/ui.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/pages/ui/ui.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/services/auth.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/_styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/animation/collapse-animate.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/alert/alert.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/alert/alert.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/alert/alert.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/card/card.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/card/card.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/card/card.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/file-tree/file-tree.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/file-tree/file-tree.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/file-tree/file-tree.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/loading/loading.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/loading/loading.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/loading/loading.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/pell-editor/pell-editor.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/pell-editor/pell-editor.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/pell-editor/pell-editor.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/profile/profile.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/profile/profile.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/profile/profile.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/progress-bar/progress-bar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/progress-bar/progress-bar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/progress-bar/progress-bar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/switch/switch.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/switch/switch.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/switch/switch.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tab-content/tab-content.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tab-content/tab-content.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tab-content/tab-content.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tabset.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tabset.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/tabset/tabset.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/todolist/todolist.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/todolist/todolist.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/todolist/todolist.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/todolist/todolist.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/weather/weather.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/weather/weather.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/weather/weather.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/components/weather/weather.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layout.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/content-top/content-top.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/content-top/content-top.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/content-top/content-top.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/menu/menu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/menu/menu.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/menu/menu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/pages-top/pages-top.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/pages-top/pages-top.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/pages-top/pages-top.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/right-config/right-config.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/right-config/right-config.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/right-config/right-config.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/sidebar/sidebar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/sidebar/sidebar.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/layouts/sidebar/sidebar.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/models/notification-model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/models/tabs-model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/roots/root.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/services/global.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/services/menu.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/shared.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/color-schemes/_dark.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/color-schemes/_default.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/color-schemes/_light.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/conf.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_ng2-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_pell-editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/cover/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/echarts/dark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/mixin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/scrollbar/customScrollbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/shared/theme/scrollbar/customScrollbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/demo_fontclass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/demo_symbol.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/demo_unicode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/iconfonts/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/images/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/theme/select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/typings.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tslint.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/backend/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1518604006">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.opened" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="18" />
+          <entry key="java" value="75" />
+          <entry key="json" value="8" />
+          <entry key="properties" value="1" />
+          <entry key="scss" value="8" />
+          <entry key="ts" value="65" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="18" />
+          <entry key="JAVA" value="75" />
+          <entry key="JSON" value="8" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="SCSS" value="8" />
+          <entry key="TypeScript" value="65" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="290" />
+          <entry key="java" value="729" />
+          <entry key="json" value="28" />
+          <entry key="properties" value="15" />
+          <entry key="scss" value="2" />
+          <entry key="ts" value="865" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="Angular2LanguageService" value="11" />
+          <entry key="TsLintLanguageService" value="2" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="290" />
+          <entry key="JAVA" value="729" />
+          <entry key="JSON" value="28" />
+          <entry key="Properties" value="15" />
+          <entry key="SCSS" value="2" />
+          <entry key="TypeScript" value="865" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" selection-end-line="168" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/PlayerServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="46" column="20" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/data-table.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/table/components/basic-tables/basic-tables.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="66" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>LoginComponent</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/main/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/AnswerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Result.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/main/WebRootConfig.java" />
+        <option value="$PROJECT_DIR$/frontend/src/app/dtos/User.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/app.routing.ts" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/controller/AnswerController.java" />
+        <option value="$PROJECT_DIR$/frontend/src/app/dtos/user.ts" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/UserDTO.java" />
+        <option value="$PROJECT_DIR$/frontend/src/app/guards/auth.guard.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/services/auth.service.ts" />
+        <option value="$PROJECT_DIR$/frontend/.angular-cli.json" />
+        <option value="$PROJECT_DIR$/frontend/package.json" />
+        <option value="$PROJECT_DIR$/frontend/src/styles.scss" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/frontend/src/index.html" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/GameService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/CustomDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/GameDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/PlayerDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/QuestionDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/RegisterDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/ResultDTO.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/RegisterService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/ChatService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/QuestionService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/ResultService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/repository/PlayerRepository.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/GameServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/QuestionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/RegisterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/ResultServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/ChatServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/PlayerService.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/PlayerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/AnswerDTO.java" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.scss" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/index/index.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.html" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/login/login.component.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/pages.module.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/menu.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/pages.routing.ts" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.scss" />
+        <option value="$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/frontend/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/frontend/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/frontend/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="E-Quiz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537025459648" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="C:\project\frontend\node_modules\tslint" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/frontend/node_modules/protractor" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\project\frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\frontend\src\app\pages\manage-players" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.quiz.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\backend\src\main\java\lk\ijse\quiz\dto" />
+      <recent name="C:\project\backend\src\main\java\lk\ijse\quiz\service" />
+      <recent name="C:\project\frontend\src\app\guards" />
+      <recent name="C:\project\frontend\node_modules\rxjs" />
+      <recent name="C:\project\frontend\src\app\services" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/frontend/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" factoryName="JavaScript Debug" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="backend" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="backend:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_E-Quiz" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1487" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="backend:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application" />
+      <item itemvalue="npm.Angular CLI Server" />
+      <item itemvalue="Protractor.E2E Tests" />
+      <item itemvalue="Tomcat Server.backend" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8973e494-f24d-425e-89f0-946944e5d6b3" name="Default Changelist" comment="" />
+      <created>1536817822468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536817822468</updated>
+      <workItem from="1536817827046" duration="2029000" />
+      <workItem from="1536822828155" duration="1903000" />
+      <workItem from="1536825040736" duration="27000" />
+      <workItem from="1536825153851" duration="632000" />
+      <workItem from="1536853759056" duration="4257000" />
+      <workItem from="1536860048200" duration="4374000" />
+      <workItem from="1536902029723" duration="1967000" />
+      <workItem from="1536904023291" duration="118000" />
+      <workItem from="1536904331345" duration="4252000" />
+      <workItem from="1536931357880" duration="3640000" />
+      <workItem from="1536983414091" duration="12178000" />
+      <workItem from="1537024921967" duration="674000" />
+      <workItem from="1537025627016" duration="271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36322000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968153" visible="true" weight="0.28895614" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" sideWeight="0.50318474" side_tool="true" weight="0.2677761" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31967214" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="JSF" order="9" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3590164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frontend" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/layouts/sidebar/sidebar.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/layouts/menu/menu.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/services/menu.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/@angular/router/src/config.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="345" column="4" selection-start-line="345" selection-start-column="4" selection-end-line="345" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43">
+          <caret selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/typescript/lib/lib.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="1342" column="4" selection-start-line="1342" selection-start-column="4" selection-end-line="1342" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/login/login.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="42" column="28" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/components/notification/notification.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/roots/root.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/shared/services/global.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/components/notification/notification.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="6" selection-start-line="17" selection-start-column="4" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/ui.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/index/index.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/components/buttons/buttons.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/index/index.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="76" selection-start-line="1" selection-start-column="76" selection-end-line="1" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/ui.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/ui/ui.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/form.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/form.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/form.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/dto/CustomDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/node_modules/@angular/core/src/metadata/directives.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="400" column="4" selection-start-line="400" selection-start-column="4" selection-end-line="400" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/dtos/user.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/login/login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="71" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/login/login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/menu.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1309">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-layouts/form-layouts.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/pages.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#264#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/pages.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/form/components/form-inputs/form-inputs.component.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/service/impl/PlayerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/lk/ijse/quiz/entity/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/table/components/data-table/data-table.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/table/components/basic-tables/basic-tables.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/app/pages/manage-players/manage-players.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
